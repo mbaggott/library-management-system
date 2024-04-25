@@ -1,3 +1,5 @@
+A Java application that simulates a Library Booking System. Was written to practice the MVC and Observer patterns.
+
 Requires installation of the Java Runtim Environment (JRE) version 21, downloadable: https://adoptium.net/en-GB/temurin/archive/?version=21
 
 Alternatively, you can use the JDK from this same download page. If you do this you don't need the JRE due to the JDK contatining a version of the JRE.
